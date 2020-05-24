@@ -4,11 +4,11 @@ using System;
 public class Player : KinematicBody2D
 {
     
-    public const float acceleration = 1000;
+    public const float acceleration = 500;
 
-    public const float friction = 1000;
+    public const float friction = 500;
     private Vector2 velocity = Vector2.Zero;
-    public const float maxSpeed = 150;
+    public const float maxSpeed = 80;
 
     
 
