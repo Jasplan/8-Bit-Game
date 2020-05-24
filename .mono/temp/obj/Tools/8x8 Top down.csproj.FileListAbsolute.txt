@@ -1,0 +1,6 @@
+D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\bin\Tools\8x8 Top down.dll
+D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\bin\Tools\8x8 Top down.pdb
+D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.csprojAssemblyReference.cache
+D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.csproj.CoreCompileInputs.cache
+D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.dll
+D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.pdb
