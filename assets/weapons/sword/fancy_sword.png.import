@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gras_tilesheet.png-9e0d0918303f6d9dc00d69ad2c287c19.stex"
+path="res://.import/fancy_sword.png-8b64e76412db852242a5fb9d76673012.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/world/Grass Tiles/gras_tilesheet.png"
-dest_files=[ "res://.import/gras_tilesheet.png-9e0d0918303f6d9dc00d69ad2c287c19.stex" ]
+source_file="res://assets/weapons/sword/fancy_sword.png"
+dest_files=[ "res://.import/fancy_sword.png-8b64e76412db852242a5fb9d76673012.stex" ]
 
 [params]
 
