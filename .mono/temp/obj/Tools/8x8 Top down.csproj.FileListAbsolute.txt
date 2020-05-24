@@ -4,3 +4,9 @@ D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.
 D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.csproj.CoreCompileInputs.cache
 D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.dll
 D:\Programmering\Godot  Projects\8x8 Top down\.mono\temp\obj\Tools\8x8 Top down.pdb
+C:\Users\Just an annoying cat\Desktop\A Game\.mono\temp\bin\Tools\8x8 Top down.dll
+C:\Users\Just an annoying cat\Desktop\A Game\.mono\temp\bin\Tools\8x8 Top down.pdb
+C:\Users\Just an annoying cat\Desktop\A Game\.mono\temp\obj\Tools\8x8 Top down.csprojAssemblyReference.cache
+C:\Users\Just an annoying cat\Desktop\A Game\.mono\temp\obj\Tools\8x8 Top down.csproj.CoreCompileInputs.cache
+C:\Users\Just an annoying cat\Desktop\A Game\.mono\temp\obj\Tools\8x8 Top down.dll
+C:\Users\Just an annoying cat\Desktop\A Game\.mono\temp\obj\Tools\8x8 Top down.pdb
